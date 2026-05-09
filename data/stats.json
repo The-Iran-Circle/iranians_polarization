@@ -1,0 +1,5442 @@
+[
+  {
+    "item": "Political_ideas_1",
+    "grouping": "pol_group",
+    "F": 0.697,
+    "p": 0.5943,
+    "eta_squared": 0.005,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.011,
+        "size": "negligible",
+        "mean_diff": 0.004
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.048,
+        "size": "negligible",
+        "mean_diff": 0.02
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.009,
+        "size": "negligible",
+        "mean_diff": -0.003
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.152,
+        "size": "negligible",
+        "mean_diff": 0.083
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.04,
+        "size": "negligible",
+        "mean_diff": 0.016
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.021,
+        "size": "negligible",
+        "mean_diff": -0.007
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.158,
+        "size": "negligible",
+        "mean_diff": 0.079
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.057,
+        "size": "negligible",
+        "mean_diff": -0.023
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.132,
+        "size": "negligible",
+        "mean_diff": 0.063
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.165,
+        "size": "negligible",
+        "mean_diff": 0.087
+      }
+    ]
+  },
+  {
+    "item": "Political_ideas_2",
+    "grouping": "pol_group",
+    "F": 11.65,
+    "p": 4.251e-09,
+    "eta_squared": 0.076,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.316,
+        "size": "small",
+        "mean_diff": 0.134
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.516,
+        "size": "medium",
+        "mean_diff": 0.29
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.765,
+        "size": "medium",
+        "mean_diff": 0.499
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.741,
+        "size": "medium",
+        "mean_diff": 0.635
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.282,
+        "size": "small",
+        "mean_diff": 0.156
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.607,
+        "size": "medium",
+        "mean_diff": 0.365
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.645,
+        "size": "medium",
+        "mean_diff": 0.501
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.332,
+        "size": "small",
+        "mean_diff": 0.209
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.473,
+        "size": "small",
+        "mean_diff": 0.345
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.15,
+        "size": "negligible",
+        "mean_diff": 0.136
+      }
+    ]
+  },
+  {
+    "item": "Political_ideas_3",
+    "grouping": "pol_group",
+    "F": 64.387,
+    "p": 7.224e-45,
+    "eta_squared": 0.313,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.117,
+        "size": "negligible",
+        "mean_diff": -0.128
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.657,
+        "size": "medium",
+        "mean_diff": -0.786
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -2.193,
+        "size": "large",
+        "mean_diff": -1.809
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -2.635,
+        "size": "large",
+        "mean_diff": -1.933
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.557,
+        "size": "medium",
+        "mean_diff": -0.658
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.775,
+        "size": "large",
+        "mean_diff": -1.682
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -2.114,
+        "size": "large",
+        "mean_diff": -1.805
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.91,
+        "size": "large",
+        "mean_diff": -1.024
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -1.093,
+        "size": "large",
+        "mean_diff": -1.147
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.202,
+        "size": "small",
+        "mean_diff": -0.123
+      }
+    ]
+  },
+  {
+    "item": "Political_ideas_4",
+    "grouping": "pol_group",
+    "F": 1.039,
+    "p": 0.3862,
+    "eta_squared": 0.007,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.027,
+        "size": "negligible",
+        "mean_diff": 0.012
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.008,
+        "size": "negligible",
+        "mean_diff": 0.004
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.079,
+        "size": "negligible",
+        "mean_diff": -0.036
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.169,
+        "size": "negligible",
+        "mean_diff": 0.103
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.017,
+        "size": "negligible",
+        "mean_diff": -0.009
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.109,
+        "size": "negligible",
+        "mean_diff": -0.048
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.16,
+        "size": "negligible",
+        "mean_diff": 0.091
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.081,
+        "size": "negligible",
+        "mean_diff": -0.04
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.179,
+        "size": "negligible",
+        "mean_diff": 0.099
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.238,
+        "size": "small",
+        "mean_diff": 0.139
+      }
+    ]
+  },
+  {
+    "item": "Political_ideas_5",
+    "grouping": "pol_group",
+    "F": 69.4,
+    "p": 8.401e-48,
+    "eta_squared": 0.329,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.211,
+        "size": "small",
+        "mean_diff": -0.214
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -1.063,
+        "size": "large",
+        "mean_diff": -0.952
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -2.266,
+        "size": "large",
+        "mean_diff": -1.746
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -2.332,
+        "size": "large",
+        "mean_diff": -1.683
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.814,
+        "size": "large",
+        "mean_diff": -0.738
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.804,
+        "size": "large",
+        "mean_diff": -1.531
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -1.85,
+        "size": "large",
+        "mean_diff": -1.468
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.975,
+        "size": "large",
+        "mean_diff": -0.793
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.928,
+        "size": "large",
+        "mean_diff": -0.73
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.112,
+        "size": "negligible",
+        "mean_diff": 0.063
+      }
+    ]
+  },
+  {
+    "item": "Political_ideas_6",
+    "grouping": "pol_group",
+    "F": 14.416,
+    "p": 3.234e-11,
+    "eta_squared": 0.092,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.371,
+        "size": "small",
+        "mean_diff": 0.266
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.408,
+        "size": "small",
+        "mean_diff": 0.294
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.677,
+        "size": "medium",
+        "mean_diff": 0.525
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.898,
+        "size": "large",
+        "mean_diff": 0.877
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.037,
+        "size": "negligible",
+        "mean_diff": 0.028
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.322,
+        "size": "small",
+        "mean_diff": 0.259
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.649,
+        "size": "medium",
+        "mean_diff": 0.611
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.302,
+        "size": "small",
+        "mean_diff": 0.231
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.679,
+        "size": "medium",
+        "mean_diff": 0.583
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.35,
+        "size": "small",
+        "mean_diff": 0.352
+      }
+    ]
+  },
+  {
+    "item": "Political_ideas_7",
+    "grouping": "pol_group",
+    "F": 2.74,
+    "p": 0.028,
+    "eta_squared": 0.019,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.06,
+        "size": "negligible",
+        "mean_diff": -0.019
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.098,
+        "size": "negligible",
+        "mean_diff": 0.044
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.137,
+        "size": "negligible",
+        "mean_diff": -0.043
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.327,
+        "size": "small",
+        "mean_diff": -0.079
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.153,
+        "size": "negligible",
+        "mean_diff": 0.063
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.087,
+        "size": "negligible",
+        "mean_diff": -0.024
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.258,
+        "size": "small",
+        "mean_diff": -0.06
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.207,
+        "size": "small",
+        "mean_diff": -0.087
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.322,
+        "size": "small",
+        "mean_diff": -0.123
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.177,
+        "size": "negligible",
+        "mean_diff": -0.036
+      }
+    ]
+  },
+  {
+    "item": "Political_ideas_8",
+    "grouping": "pol_group",
+    "F": 3.861,
+    "p": 0.0042,
+    "eta_squared": 0.027,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.046,
+        "size": "negligible",
+        "mean_diff": -0.04
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.316,
+        "size": "small",
+        "mean_diff": -0.337
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.158,
+        "size": "negligible",
+        "mean_diff": -0.179
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.058,
+        "size": "negligible",
+        "mean_diff": 0.056
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.294,
+        "size": "small",
+        "mean_diff": -0.298
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.141,
+        "size": "negligible",
+        "mean_diff": -0.139
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.106,
+        "size": "negligible",
+        "mean_diff": 0.095
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.143,
+        "size": "negligible",
+        "mean_diff": 0.158
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.377,
+        "size": "small",
+        "mean_diff": 0.393
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.224,
+        "size": "small",
+        "mean_diff": 0.234
+      }
+    ]
+  },
+  {
+    "item": "Political_ideas_9",
+    "grouping": "pol_group",
+    "F": 18.445,
+    "p": 2.932e-14,
+    "eta_squared": 0.115,
+    "n_total": 571,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.273,
+        "size": "small",
+        "mean_diff": 0.205
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.669,
+        "size": "medium",
+        "mean_diff": 0.647
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.819,
+        "size": "large",
+        "mean_diff": 0.728
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.124,
+        "size": "large",
+        "mean_diff": 1.202
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.463,
+        "size": "small",
+        "mean_diff": 0.442
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.585,
+        "size": "medium",
+        "mean_diff": 0.524
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.972,
+        "size": "large",
+        "mean_diff": 0.998
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.08,
+        "size": "negligible",
+        "mean_diff": 0.082
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.521,
+        "size": "medium",
+        "mean_diff": 0.556
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.42,
+        "size": "small",
+        "mean_diff": 0.474
+      }
+    ]
+  },
+  {
+    "item": "SDO_dom_pro_1",
+    "grouping": "pol_group",
+    "F": 21.643,
+    "p": 1.646e-16,
+    "eta_squared": 0.145,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.397,
+        "size": "small",
+        "mean_diff": -0.504
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.58,
+        "size": "medium",
+        "mean_diff": -0.812
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -1.156,
+        "size": "large",
+        "mean_diff": -1.742
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.287,
+        "size": "large",
+        "mean_diff": -2.017
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.212,
+        "size": "small",
+        "mean_diff": -0.308
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.788,
+        "size": "medium",
+        "mean_diff": -1.238
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.949,
+        "size": "large",
+        "mean_diff": -1.513
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.602,
+        "size": "medium",
+        "mean_diff": -0.93
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.771,
+        "size": "medium",
+        "mean_diff": -1.205
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.155,
+        "size": "negligible",
+        "mean_diff": -0.276
+      }
+    ]
+  },
+  {
+    "item": "SDO_dom_pro_2",
+    "grouping": "pol_group",
+    "F": 16.746,
+    "p": 6.599e-13,
+    "eta_squared": 0.116,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.197,
+        "size": "negligible",
+        "mean_diff": -0.21
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.395,
+        "size": "small",
+        "mean_diff": -0.471
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.811,
+        "size": "large",
+        "mean_diff": -1.312
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.911,
+        "size": "large",
+        "mean_diff": -1.455
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.219,
+        "size": "small",
+        "mean_diff": -0.26
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.761,
+        "size": "medium",
+        "mean_diff": -1.102
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.841,
+        "size": "large",
+        "mean_diff": -1.245
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.611,
+        "size": "medium",
+        "mean_diff": -0.841
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.698,
+        "size": "medium",
+        "mean_diff": -0.984
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.079,
+        "size": "negligible",
+        "mean_diff": -0.143
+      }
+    ]
+  },
+  {
+    "item": "SDO_dom_con_1",
+    "grouping": "pol_group",
+    "F": 20.043,
+    "p": 2.416e-15,
+    "eta_squared": 0.136,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.019,
+        "size": "negligible",
+        "mean_diff": 0.016
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.064,
+        "size": "negligible",
+        "mean_diff": 0.053
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.641,
+        "size": "medium",
+        "mean_diff": 0.799
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.718,
+        "size": "medium",
+        "mean_diff": 1.079
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.044,
+        "size": "negligible",
+        "mean_diff": 0.036
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.704,
+        "size": "medium",
+        "mean_diff": 0.782
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.791,
+        "size": "medium",
+        "mean_diff": 1.063
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.764,
+        "size": "medium",
+        "mean_diff": 0.746
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.885,
+        "size": "large",
+        "mean_diff": 1.027
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.175,
+        "size": "negligible",
+        "mean_diff": 0.281
+      }
+    ]
+  },
+  {
+    "item": "SDO_dom_con_2",
+    "grouping": "pol_group",
+    "F": 8.77,
+    "p": 7.473e-07,
+    "eta_squared": 0.064,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.231,
+        "size": "small",
+        "mean_diff": 0.2
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.387,
+        "size": "small",
+        "mean_diff": 0.458
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.565,
+        "size": "medium",
+        "mean_diff": 0.528
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.736,
+        "size": "medium",
+        "mean_diff": 1.097
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.222,
+        "size": "small",
+        "mean_diff": 0.258
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.33,
+        "size": "small",
+        "mean_diff": 0.328
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.654,
+        "size": "medium",
+        "mean_diff": 0.897
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.058,
+        "size": "negligible",
+        "mean_diff": 0.07
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.46,
+        "size": "small",
+        "mean_diff": 0.639
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.377,
+        "size": "small",
+        "mean_diff": 0.569
+      }
+    ]
+  },
+  {
+    "item": "SDO_antiEgal_pro_1",
+    "grouping": "pol_group",
+    "F": 22.553,
+    "p": 3.612e-17,
+    "eta_squared": 0.15,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.25,
+        "size": "small",
+        "mean_diff": -0.338
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.542,
+        "size": "medium",
+        "mean_diff": -0.85
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -1.066,
+        "size": "large",
+        "mean_diff": -1.868
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.139,
+        "size": "large",
+        "mean_diff": -2.154
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.333,
+        "size": "small",
+        "mean_diff": -0.512
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.948,
+        "size": "large",
+        "mean_diff": -1.53
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -1.035,
+        "size": "large",
+        "mean_diff": -1.815
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.606,
+        "size": "medium",
+        "mean_diff": -1.018
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.743,
+        "size": "medium",
+        "mean_diff": -1.304
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.141,
+        "size": "negligible",
+        "mean_diff": -0.285
+      }
+    ]
+  },
+  {
+    "item": "SDO_antiEgal_pro_2",
+    "grouping": "pol_group",
+    "F": 17.986,
+    "p": 7.904e-14,
+    "eta_squared": 0.124,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.205,
+        "size": "small",
+        "mean_diff": -0.31
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.524,
+        "size": "medium",
+        "mean_diff": -0.868
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.856,
+        "size": "large",
+        "mean_diff": -1.581
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.093,
+        "size": "large",
+        "mean_diff": -2.072
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.341,
+        "size": "small",
+        "mean_diff": -0.559
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.737,
+        "size": "medium",
+        "mean_diff": -1.271
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.982,
+        "size": "large",
+        "mean_diff": -1.762
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.406,
+        "size": "small",
+        "mean_diff": -0.713
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.672,
+        "size": "medium",
+        "mean_diff": -1.204
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.243,
+        "size": "small",
+        "mean_diff": -0.491
+      }
+    ]
+  },
+  {
+    "item": "SDO_antiEgal_con_1",
+    "grouping": "pol_group",
+    "F": 16.549,
+    "p": 9.249e-13,
+    "eta_squared": 0.115,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.099,
+        "size": "negligible",
+        "mean_diff": 0.1
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.469,
+        "size": "small",
+        "mean_diff": 0.572
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.711,
+        "size": "medium",
+        "mean_diff": 0.964
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.861,
+        "size": "large",
+        "mean_diff": 1.511
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.402,
+        "size": "small",
+        "mean_diff": 0.472
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.72,
+        "size": "medium",
+        "mean_diff": 0.864
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.911,
+        "size": "large",
+        "mean_diff": 1.411
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.303,
+        "size": "small",
+        "mean_diff": 0.392
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.631,
+        "size": "medium",
+        "mean_diff": 0.939
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.304,
+        "size": "small",
+        "mean_diff": 0.547
+      }
+    ]
+  },
+  {
+    "item": "SDO_antiEgal_con_2",
+    "grouping": "pol_group",
+    "F": 12.038,
+    "p": 2.344e-09,
+    "eta_squared": 0.086,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.194,
+        "size": "negligible",
+        "mean_diff": 0.206
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.341,
+        "size": "small",
+        "mean_diff": 0.352
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.57,
+        "size": "medium",
+        "mean_diff": 0.472
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.777,
+        "size": "medium",
+        "mean_diff": 1.171
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.133,
+        "size": "negligible",
+        "mean_diff": 0.145
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.25,
+        "size": "small",
+        "mean_diff": 0.266
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.667,
+        "size": "medium",
+        "mean_diff": 0.964
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.117,
+        "size": "negligible",
+        "mean_diff": 0.121
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.637,
+        "size": "medium",
+        "mean_diff": 0.819
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.479,
+        "size": "small",
+        "mean_diff": 0.698
+      }
+    ]
+  },
+  {
+    "item": "ACT_submis_pro_1",
+    "grouping": "pol_group",
+    "F": 97.589,
+    "p": 1.266e-61,
+    "eta_squared": 0.434,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.011,
+        "size": "negligible",
+        "mean_diff": 0.011
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.348,
+        "size": "small",
+        "mean_diff": -0.503
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -1.453,
+        "size": "large",
+        "mean_diff": -2.383
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -2.056,
+        "size": "large",
+        "mean_diff": -3.42
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.375,
+        "size": "small",
+        "mean_diff": -0.515
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.713,
+        "size": "large",
+        "mean_diff": -2.395
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -2.308,
+        "size": "large",
+        "mean_diff": -3.432
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.2,
+        "size": "large",
+        "mean_diff": -1.88
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -1.835,
+        "size": "large",
+        "mean_diff": -2.917
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.568,
+        "size": "medium",
+        "mean_diff": -1.037
+      }
+    ]
+  },
+  {
+    "item": "ACT_submis_pro_2",
+    "grouping": "pol_group",
+    "F": 8.015,
+    "p": 2.846e-06,
+    "eta_squared": 0.059,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.02,
+        "size": "negligible",
+        "mean_diff": -0.03
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.444,
+        "size": "small",
+        "mean_diff": -0.744
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.5,
+        "size": "small",
+        "mean_diff": -0.834
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.704,
+        "size": "medium",
+        "mean_diff": -1.232
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.437,
+        "size": "small",
+        "mean_diff": -0.713
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.51,
+        "size": "medium",
+        "mean_diff": -0.804
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.723,
+        "size": "medium",
+        "mean_diff": -1.201
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.053,
+        "size": "negligible",
+        "mean_diff": -0.091
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.282,
+        "size": "small",
+        "mean_diff": -0.488
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.222,
+        "size": "small",
+        "mean_diff": -0.397
+      }
+    ]
+  },
+  {
+    "item": "ACT_submis_pro_3",
+    "grouping": "pol_group",
+    "F": 71.388,
+    "p": 5.327e-48,
+    "eta_squared": 0.359,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.131,
+        "size": "negligible",
+        "mean_diff": -0.115
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.376,
+        "size": "small",
+        "mean_diff": -0.523
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -1.292,
+        "size": "large",
+        "mean_diff": -1.882
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.7,
+        "size": "large",
+        "mean_diff": -3.025
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.313,
+        "size": "small",
+        "mean_diff": -0.408
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.434,
+        "size": "large",
+        "mean_diff": -1.768
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -1.879,
+        "size": "large",
+        "mean_diff": -2.911
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.907,
+        "size": "large",
+        "mean_diff": -1.36
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -1.535,
+        "size": "large",
+        "mean_diff": -2.503
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.603,
+        "size": "medium",
+        "mean_diff": -1.143
+      }
+    ]
+  },
+  {
+    "item": "ACT_submis_con_1",
+    "grouping": "pol_group",
+    "F": 17.335,
+    "p": 2.405e-13,
+    "eta_squared": 0.12,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.04,
+        "size": "negligible",
+        "mean_diff": -0.023
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.27,
+        "size": "small",
+        "mean_diff": 0.256
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.452,
+        "size": "small",
+        "mean_diff": 0.374
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.82,
+        "size": "large",
+        "mean_diff": 1.048
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.315,
+        "size": "small",
+        "mean_diff": 0.278
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.55,
+        "size": "medium",
+        "mean_diff": 0.397
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.971,
+        "size": "large",
+        "mean_diff": 1.071
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.121,
+        "size": "negligible",
+        "mean_diff": 0.119
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.692,
+        "size": "medium",
+        "mean_diff": 0.792
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.521,
+        "size": "medium",
+        "mean_diff": 0.674
+      }
+    ]
+  },
+  {
+    "item": "ACT_conserv_pro_1",
+    "grouping": "pol_group",
+    "F": 11.564,
+    "p": 5.39e-09,
+    "eta_squared": 0.083,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.038,
+        "size": "negligible",
+        "mean_diff": -0.034
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.415,
+        "size": "small",
+        "mean_diff": -0.563
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.679,
+        "size": "medium",
+        "mean_diff": -1.046
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.765,
+        "size": "medium",
+        "mean_diff": -1.246
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.411,
+        "size": "small",
+        "mean_diff": -0.529
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.767,
+        "size": "medium",
+        "mean_diff": -1.012
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.835,
+        "size": "large",
+        "mean_diff": -1.211
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.322,
+        "size": "small",
+        "mean_diff": -0.484
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.442,
+        "size": "small",
+        "mean_diff": -0.683
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.109,
+        "size": "negligible",
+        "mean_diff": -0.199
+      }
+    ]
+  },
+  {
+    "item": "ACT_conserv_pro_2",
+    "grouping": "pol_group",
+    "F": 14.428,
+    "p": 3.616e-11,
+    "eta_squared": 0.102,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.161,
+        "size": "negligible",
+        "mean_diff": -0.183
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.475,
+        "size": "small",
+        "mean_diff": -0.664
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.597,
+        "size": "medium",
+        "mean_diff": -0.975
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.975,
+        "size": "large",
+        "mean_diff": -1.626
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.347,
+        "size": "small",
+        "mean_diff": -0.481
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.524,
+        "size": "medium",
+        "mean_diff": -0.792
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.919,
+        "size": "large",
+        "mean_diff": -1.444
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.2,
+        "size": "negligible",
+        "mean_diff": -0.311
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.607,
+        "size": "medium",
+        "mean_diff": -0.962
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.347,
+        "size": "small",
+        "mean_diff": -0.651
+      }
+    ]
+  },
+  {
+    "item": "ACT_conserv_con_1",
+    "grouping": "pol_group",
+    "F": 7.3,
+    "p": 0,
+    "eta_squared": 0.054,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.3,
+        "size": "small",
+        "mean_diff": 0.18
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.555,
+        "size": "medium",
+        "mean_diff": 0.673
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.696,
+        "size": "medium",
+        "mean_diff": 0.576
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.703,
+        "size": "medium",
+        "mean_diff": 0.919
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.432,
+        "size": "small",
+        "mean_diff": 0.493
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.486,
+        "size": "small",
+        "mean_diff": 0.396
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.631,
+        "size": "medium",
+        "mean_diff": 0.739
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.078,
+        "size": "negligible",
+        "mean_diff": -0.098
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.181,
+        "size": "negligible",
+        "mean_diff": 0.245
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.253,
+        "size": "small",
+        "mean_diff": 0.343
+      }
+    ]
+  },
+  {
+    "item": "ACT_conserv_con_2",
+    "grouping": "pol_group",
+    "F": 2.91,
+    "p": 0.0212,
+    "eta_squared": 0.022,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.525,
+        "size": "medium",
+        "mean_diff": -0.645
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.146,
+        "size": "negligible",
+        "mean_diff": -0.208
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.188,
+        "size": "negligible",
+        "mean_diff": -0.285
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.07,
+        "size": "negligible",
+        "mean_diff": -0.093
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.339,
+        "size": "small",
+        "mean_diff": 0.437
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.304,
+        "size": "small",
+        "mean_diff": 0.36
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.489,
+        "size": "small",
+        "mean_diff": 0.552
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.056,
+        "size": "negligible",
+        "mean_diff": -0.077
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.086,
+        "size": "negligible",
+        "mean_diff": 0.115
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.151,
+        "size": "negligible",
+        "mean_diff": 0.192
+      }
+    ]
+  },
+  {
+    "item": "ACT_agress_con_1",
+    "grouping": "pol_group",
+    "F": 13.264,
+    "p": 2.742e-10,
+    "eta_squared": 0.094,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.658,
+        "size": "medium",
+        "mean_diff": 0.855
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.864,
+        "size": "large",
+        "mean_diff": 1.053
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 1.167,
+        "size": "large",
+        "mean_diff": 1.48
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.174,
+        "size": "large",
+        "mean_diff": 1.781
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.151,
+        "size": "negligible",
+        "mean_diff": 0.198
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.434,
+        "size": "small",
+        "mean_diff": 0.624
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.595,
+        "size": "medium",
+        "mean_diff": 0.926
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.328,
+        "size": "small",
+        "mean_diff": 0.427
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.519,
+        "size": "medium",
+        "mean_diff": 0.728
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.187,
+        "size": "negligible",
+        "mean_diff": 0.302
+      }
+    ]
+  },
+  {
+    "item": "ACT_agress_con_2",
+    "grouping": "pol_group",
+    "F": 19.356,
+    "p": 7.701e-15,
+    "eta_squared": 0.132,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.094,
+        "size": "negligible",
+        "mean_diff": 0.142
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.375,
+        "size": "small",
+        "mean_diff": 0.645
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.68,
+        "size": "medium",
+        "mean_diff": 1.141
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.207,
+        "size": "large",
+        "mean_diff": 1.961
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.3,
+        "size": "small",
+        "mean_diff": 0.503
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.624,
+        "size": "medium",
+        "mean_diff": 0.999
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 1.148,
+        "size": "large",
+        "mean_diff": 1.819
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.284,
+        "size": "small",
+        "mean_diff": 0.496
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.767,
+        "size": "medium",
+        "mean_diff": 1.316
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.486,
+        "size": "small",
+        "mean_diff": 0.82
+      }
+    ]
+  },
+  {
+    "item": "ACT_agress_pro_1",
+    "grouping": "pol_group",
+    "F": 20.697,
+    "p": 8.029e-16,
+    "eta_squared": 0.14,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.116,
+        "size": "negligible",
+        "mean_diff": 0.174
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.07,
+        "size": "negligible",
+        "mean_diff": 0.101
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.451,
+        "size": "small",
+        "mean_diff": -0.811
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.794,
+        "size": "medium",
+        "mean_diff": -1.387
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.052,
+        "size": "negligible",
+        "mean_diff": -0.073
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.617,
+        "size": "medium",
+        "mean_diff": -0.985
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.966,
+        "size": "large",
+        "mean_diff": -1.561
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.612,
+        "size": "medium",
+        "mean_diff": -0.912
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.978,
+        "size": "large",
+        "mean_diff": -1.488
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.321,
+        "size": "small",
+        "mean_diff": -0.576
+      }
+    ]
+  },
+  {
+    "item": "ACT_agress_con_3",
+    "grouping": "pol_group",
+    "F": 15.113,
+    "p": 1.102e-11,
+    "eta_squared": 0.106,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.278,
+        "size": "small",
+        "mean_diff": 0.302
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.516,
+        "size": "medium",
+        "mean_diff": 0.623
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.877,
+        "size": "large",
+        "mean_diff": 1.137
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.019,
+        "size": "large",
+        "mean_diff": 1.506
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.257,
+        "size": "small",
+        "mean_diff": 0.321
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.623,
+        "size": "medium",
+        "mean_diff": 0.835
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.829,
+        "size": "large",
+        "mean_diff": 1.204
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.387,
+        "size": "small",
+        "mean_diff": 0.514
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.631,
+        "size": "medium",
+        "mean_diff": 0.883
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.227,
+        "size": "small",
+        "mean_diff": 0.369
+      }
+    ]
+  },
+  {
+    "item": "MFQ_Auth_1",
+    "grouping": "pol_group",
+    "F": 13.141,
+    "p": 3.398e-10,
+    "eta_squared": 0.093,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.197,
+        "size": "negligible",
+        "mean_diff": -0.295
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.563,
+        "size": "medium",
+        "mean_diff": -1.005
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.759,
+        "size": "medium",
+        "mean_diff": -1.31
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.982,
+        "size": "large",
+        "mean_diff": -1.879
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.413,
+        "size": "small",
+        "mean_diff": -0.71
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.634,
+        "size": "medium",
+        "mean_diff": -1.015
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.893,
+        "size": "large",
+        "mean_diff": -1.583
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.168,
+        "size": "negligible",
+        "mean_diff": -0.305
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.466,
+        "size": "small",
+        "mean_diff": -0.873
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.292,
+        "size": "small",
+        "mean_diff": -0.569
+      }
+    ]
+  },
+  {
+    "item": "MFQ_InGroup_1",
+    "grouping": "pol_group",
+    "F": 51.833,
+    "p": 1.244e-36,
+    "eta_squared": 0.289,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.23,
+        "size": "small",
+        "mean_diff": 0.337
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.137,
+        "size": "negligible",
+        "mean_diff": -0.22
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -1.373,
+        "size": "large",
+        "mean_diff": -1.709
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.736,
+        "size": "large",
+        "mean_diff": -2.099
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.354,
+        "size": "small",
+        "mean_diff": -0.557
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.54,
+        "size": "large",
+        "mean_diff": -2.047
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -1.899,
+        "size": "large",
+        "mean_diff": -2.436
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.97,
+        "size": "large",
+        "mean_diff": -1.489
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -1.27,
+        "size": "large",
+        "mean_diff": -1.879
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.357,
+        "size": "small",
+        "mean_diff": -0.39
+      }
+    ]
+  },
+  {
+    "item": "MFQ_InGroup_2",
+    "grouping": "pol_group",
+    "F": 6.132,
+    "p": 0.0001,
+    "eta_squared": 0.046,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.107,
+        "size": "negligible",
+        "mean_diff": -0.143
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.476,
+        "size": "small",
+        "mean_diff": -0.797
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.709,
+        "size": "medium",
+        "mean_diff": -1.189
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.558,
+        "size": "medium",
+        "mean_diff": -0.975
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.407,
+        "size": "small",
+        "mean_diff": -0.654
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.688,
+        "size": "medium",
+        "mean_diff": -1.046
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.514,
+        "size": "medium",
+        "mean_diff": -0.832
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.226,
+        "size": "small",
+        "mean_diff": -0.392
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.101,
+        "size": "negligible",
+        "mean_diff": -0.178
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.117,
+        "size": "negligible",
+        "mean_diff": 0.214
+      }
+    ]
+  },
+  {
+    "item": "MFQ_Harm_1",
+    "grouping": "pol_group",
+    "F": 12.085,
+    "p": 2.159e-09,
+    "eta_squared": 0.087,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.022,
+        "size": "negligible",
+        "mean_diff": -0.034
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.013,
+        "size": "negligible",
+        "mean_diff": 0.02
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.62,
+        "size": "medium",
+        "mean_diff": 1.15
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.558,
+        "size": "medium",
+        "mean_diff": 1.05
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.037,
+        "size": "negligible",
+        "mean_diff": 0.054
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.716,
+        "size": "medium",
+        "mean_diff": 1.184
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.626,
+        "size": "medium",
+        "mean_diff": 1.084
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.739,
+        "size": "medium",
+        "mean_diff": 1.13
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.643,
+        "size": "medium",
+        "mean_diff": 1.03
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.052,
+        "size": "negligible",
+        "mean_diff": -0.1
+      }
+    ]
+  },
+  {
+    "item": "MFQ_Fair_1",
+    "grouping": "pol_group",
+    "F": 5.232,
+    "p": 0.0004,
+    "eta_squared": 0.039,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.134,
+        "size": "negligible",
+        "mean_diff": -0.097
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.222,
+        "size": "small",
+        "mean_diff": -0.165
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.016,
+        "size": "negligible",
+        "mean_diff": 0.012
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.279,
+        "size": "small",
+        "mean_diff": 0.264
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.092,
+        "size": "negligible",
+        "mean_diff": -0.069
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.141,
+        "size": "negligible",
+        "mean_diff": 0.109
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.403,
+        "size": "small",
+        "mean_diff": 0.36
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.232,
+        "size": "small",
+        "mean_diff": 0.178
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.508,
+        "size": "medium",
+        "mean_diff": 0.429
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.262,
+        "size": "small",
+        "mean_diff": 0.251
+      }
+    ]
+  },
+  {
+    "item": "MFQ_Purity_1",
+    "grouping": "pol_group",
+    "F": 8.956,
+    "p": 5.376e-07,
+    "eta_squared": 0.066,
+    "n_total": 515,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.228,
+        "size": "small",
+        "mean_diff": -0.443
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.663,
+        "size": "medium",
+        "mean_diff": -1.336
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.65,
+        "size": "medium",
+        "mean_diff": -1.289
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.924,
+        "size": "large",
+        "mean_diff": -1.787
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.443,
+        "size": "small",
+        "mean_diff": -0.893
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.422,
+        "size": "small",
+        "mean_diff": -0.846
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.684,
+        "size": "medium",
+        "mean_diff": -1.344
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.023,
+        "size": "negligible",
+        "mean_diff": 0.048
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.224,
+        "size": "small",
+        "mean_diff": -0.45
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.25,
+        "size": "small",
+        "mean_diff": -0.498
+      }
+    ]
+  },
+  {
+    "item": "Foreign_Inter",
+    "grouping": "pol_group",
+    "F": 122.548,
+    "p": 2.291e-72,
+    "eta_squared": 0.501,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.422,
+        "size": "small",
+        "mean_diff": -0.711
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.588,
+        "size": "medium",
+        "mean_diff": -1.102
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -3.149,
+        "size": "large",
+        "mean_diff": -4.219
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -4.201,
+        "size": "large",
+        "mean_diff": -4.459
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.208,
+        "size": "small",
+        "mean_diff": -0.392
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -2.171,
+        "size": "large",
+        "mean_diff": -3.508
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -2.707,
+        "size": "large",
+        "mean_diff": -3.748
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.702,
+        "size": "large",
+        "mean_diff": -3.116
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -2.006,
+        "size": "large",
+        "mean_diff": -3.357
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.229,
+        "size": "small",
+        "mean_diff": -0.24
+      }
+    ]
+  },
+  {
+    "item": "Violence_peop",
+    "grouping": "pol_group",
+    "F": 17.101,
+    "p": 3.879e-13,
+    "eta_squared": 0.123,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.051,
+        "size": "negligible",
+        "mean_diff": -0.108
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.056,
+        "size": "negligible",
+        "mean_diff": -0.115
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.741,
+        "size": "medium",
+        "mean_diff": -1.5
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.969,
+        "size": "large",
+        "mean_diff": -1.75
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.004,
+        "size": "negligible",
+        "mean_diff": -0.008
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.707,
+        "size": "medium",
+        "mean_diff": -1.392
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.895,
+        "size": "large",
+        "mean_diff": -1.642
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.692,
+        "size": "medium",
+        "mean_diff": -1.385
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.854,
+        "size": "large",
+        "mean_diff": -1.635
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.146,
+        "size": "negligible",
+        "mean_diff": -0.25
+      }
+    ]
+  },
+  {
+    "item": "Federalism",
+    "grouping": "pol_group",
+    "F": 22.553,
+    "p": 4.113e-17,
+    "eta_squared": 0.156,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.199,
+        "size": "negligible",
+        "mean_diff": -0.2
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.31,
+        "size": "small",
+        "mean_diff": 0.469
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.659,
+        "size": "medium",
+        "mean_diff": 0.979
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.957,
+        "size": "large",
+        "mean_diff": 1.692
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.489,
+        "size": "small",
+        "mean_diff": 0.67
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 1.022,
+        "size": "large",
+        "mean_diff": 1.179
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 1.272,
+        "size": "large",
+        "mean_diff": 1.893
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.33,
+        "size": "small",
+        "mean_diff": 0.51
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.739,
+        "size": "medium",
+        "mean_diff": 1.223
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.399,
+        "size": "small",
+        "mean_diff": 0.713
+      }
+    ]
+  },
+  {
+    "item": "SociSec",
+    "grouping": "pol_group",
+    "F": 5.906,
+    "p": 0.0001,
+    "eta_squared": 0.046,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.191,
+        "size": "negligible",
+        "mean_diff": 0.184
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.417,
+        "size": "small",
+        "mean_diff": 0.468
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.634,
+        "size": "medium",
+        "mean_diff": 0.771
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.587,
+        "size": "medium",
+        "mean_diff": 0.913
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.255,
+        "size": "small",
+        "mean_diff": 0.284
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.506,
+        "size": "medium",
+        "mean_diff": 0.587
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.512,
+        "size": "medium",
+        "mean_diff": 0.729
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.25,
+        "size": "small",
+        "mean_diff": 0.303
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.326,
+        "size": "small",
+        "mean_diff": 0.445
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.088,
+        "size": "negligible",
+        "mean_diff": 0.143
+      }
+    ]
+  },
+  {
+    "item": "Compromise",
+    "grouping": "pol_group",
+    "F": 13.881,
+    "p": 9.863e-11,
+    "eta_squared": 0.102,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.038,
+        "size": "negligible",
+        "mean_diff": 0.065
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.026,
+        "size": "negligible",
+        "mean_diff": 0.045
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.173,
+        "size": "negligible",
+        "mean_diff": 0.354
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.813,
+        "size": "large",
+        "mean_diff": 1.562
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.012,
+        "size": "negligible",
+        "mean_diff": -0.02
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.154,
+        "size": "negligible",
+        "mean_diff": 0.289
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.817,
+        "size": "large",
+        "mean_diff": 1.497
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.17,
+        "size": "negligible",
+        "mean_diff": 0.309
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.844,
+        "size": "large",
+        "mean_diff": 1.517
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.59,
+        "size": "medium",
+        "mean_diff": 1.208
+      }
+    ]
+  },
+  {
+    "item": "Maternal_lang",
+    "grouping": "pol_group",
+    "F": 24.31,
+    "p": 2.291e-18,
+    "eta_squared": 0.166,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.221,
+        "size": "small",
+        "mean_diff": 0.292
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.525,
+        "size": "medium",
+        "mean_diff": 0.83
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 1.032,
+        "size": "large",
+        "mean_diff": 1.677
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.201,
+        "size": "large",
+        "mean_diff": 2.31
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.343,
+        "size": "small",
+        "mean_diff": 0.538
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.875,
+        "size": "large",
+        "mean_diff": 1.385
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 1.116,
+        "size": "large",
+        "mean_diff": 2.018
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.502,
+        "size": "medium",
+        "mean_diff": 0.847
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.82,
+        "size": "large",
+        "mean_diff": 1.48
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.309,
+        "size": "small",
+        "mean_diff": 0.633
+      }
+    ]
+  },
+  {
+    "item": "Palestine",
+    "grouping": "pol_group",
+    "F": 96.025,
+    "p": 3.029e-60,
+    "eta_squared": 0.44,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.12,
+        "size": "negligible",
+        "mean_diff": -0.18
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.74,
+        "size": "medium",
+        "mean_diff": -1.361
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -1.99,
+        "size": "large",
+        "mean_diff": -3.552
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -2.933,
+        "size": "large",
+        "mean_diff": -4.151
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.666,
+        "size": "medium",
+        "mean_diff": -1.181
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -2.036,
+        "size": "large",
+        "mean_diff": -3.372
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -2.77,
+        "size": "large",
+        "mean_diff": -3.972
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.157,
+        "size": "large",
+        "mean_diff": -2.191
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -1.607,
+        "size": "large",
+        "mean_diff": -2.79
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.379,
+        "size": "small",
+        "mean_diff": -0.599
+      }
+    ]
+  },
+  {
+    "item": "WomenRights",
+    "grouping": "pol_group",
+    "F": 1.848,
+    "p": 0.1185,
+    "eta_squared": 0.015,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.064,
+        "size": "negligible",
+        "mean_diff": 0.053
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.117,
+        "size": "negligible",
+        "mean_diff": 0.093
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.323,
+        "size": "small",
+        "mean_diff": 0.354
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.266,
+        "size": "small",
+        "mean_diff": 0.274
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.052,
+        "size": "negligible",
+        "mean_diff": 0.04
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.324,
+        "size": "small",
+        "mean_diff": 0.301
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.237,
+        "size": "small",
+        "mean_diff": 0.221
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.306,
+        "size": "small",
+        "mean_diff": 0.261
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.209,
+        "size": "small",
+        "mean_diff": 0.181
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.074,
+        "size": "negligible",
+        "mean_diff": -0.08
+      }
+    ]
+  },
+  {
+    "item": "DistributiveJustice",
+    "grouping": "pol_group",
+    "F": 17.308,
+    "p": 2.729e-13,
+    "eta_squared": 0.124,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.538,
+        "size": "medium",
+        "mean_diff": 0.466
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.791,
+        "size": "medium",
+        "mean_diff": 0.996
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 1.343,
+        "size": "large",
+        "mean_diff": 1.688
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.035,
+        "size": "large",
+        "mean_diff": 1.678
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.44,
+        "size": "small",
+        "mean_diff": 0.53
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 1.076,
+        "size": "large",
+        "mean_diff": 1.222
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.837,
+        "size": "large",
+        "mean_diff": 1.212
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.513,
+        "size": "medium",
+        "mean_diff": 0.692
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.458,
+        "size": "small",
+        "mean_diff": 0.682
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.006,
+        "size": "negligible",
+        "mean_diff": -0.01
+      }
+    ]
+  },
+  {
+    "item": "HomoTrans",
+    "grouping": "pol_group",
+    "F": 17.744,
+    "p": 1.299e-13,
+    "eta_squared": 0.127,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.544,
+        "size": "medium",
+        "mean_diff": 0.389
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.803,
+        "size": "large",
+        "mean_diff": 1.053
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.805,
+        "size": "large",
+        "mean_diff": 0.688
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.239,
+        "size": "large",
+        "mean_diff": 1.63
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.53,
+        "size": "medium",
+        "mean_diff": 0.664
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.327,
+        "size": "small",
+        "mean_diff": 0.298
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 1.015,
+        "size": "large",
+        "mean_diff": 1.241
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.271,
+        "size": "small",
+        "mean_diff": -0.365
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.404,
+        "size": "small",
+        "mean_diff": 0.577
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.683,
+        "size": "medium",
+        "mean_diff": 0.942
+      }
+    ]
+  },
+  {
+    "item": "Afghan_Immig_eco",
+    "grouping": "pol_group",
+    "F": 20.115,
+    "p": 2.379e-15,
+    "eta_squared": 0.141,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.169,
+        "size": "negligible",
+        "mean_diff": 0.204
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.521,
+        "size": "medium",
+        "mean_diff": 0.692
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.523,
+        "size": "medium",
+        "mean_diff": 0.688
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.161,
+        "size": "large",
+        "mean_diff": 1.736
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.379,
+        "size": "small",
+        "mean_diff": 0.488
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.393,
+        "size": "small",
+        "mean_diff": 0.484
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 1.103,
+        "size": "large",
+        "mean_diff": 1.532
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.003,
+        "size": "negligible",
+        "mean_diff": -0.005
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.74,
+        "size": "medium",
+        "mean_diff": 1.043
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.704,
+        "size": "medium",
+        "mean_diff": 1.048
+      }
+    ]
+  },
+  {
+    "item": "Afghan_Immig_cul",
+    "grouping": "pol_group",
+    "F": 32.065,
+    "p": 9.578e-24,
+    "eta_squared": 0.208,
+    "n_total": 494,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.038,
+        "size": "negligible",
+        "mean_diff": -0.044
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.474,
+        "size": "small",
+        "mean_diff": -0.677
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.991,
+        "size": "large",
+        "mean_diff": -1.458
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.264,
+        "size": "large",
+        "mean_diff": -2.111
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.473,
+        "size": "small",
+        "mean_diff": -0.633
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.129,
+        "size": "large",
+        "mean_diff": -1.415
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -1.403,
+        "size": "large",
+        "mean_diff": -2.067
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.537,
+        "size": "medium",
+        "mean_diff": -0.782
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.927,
+        "size": "large",
+        "mean_diff": -1.434
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.386,
+        "size": "small",
+        "mean_diff": -0.652
+      }
+    ]
+  },
+  {
+    "item": "Ethnic/Civic_ident_1",
+    "grouping": "pol_group",
+    "F": 1.151,
+    "p": 0.3317,
+    "eta_squared": 0.009,
+    "n_total": 489,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.411,
+        "size": "small",
+        "mean_diff": -0.49
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.315,
+        "size": "small",
+        "mean_diff": -0.382
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.409,
+        "size": "small",
+        "mean_diff": -0.51
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.289,
+        "size": "small",
+        "mean_diff": -0.36
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.092,
+        "size": "negligible",
+        "mean_diff": 0.108
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.018,
+        "size": "negligible",
+        "mean_diff": -0.021
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.11,
+        "size": "negligible",
+        "mean_diff": 0.129
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.108,
+        "size": "negligible",
+        "mean_diff": -0.129
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.018,
+        "size": "negligible",
+        "mean_diff": 0.021
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.125,
+        "size": "negligible",
+        "mean_diff": 0.15
+      }
+    ]
+  },
+  {
+    "item": "Ethnic/Civic_ident_2",
+    "grouping": "pol_group",
+    "F": 6.826,
+    "p": 0,
+    "eta_squared": 0.053,
+    "n_total": 489,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.185,
+        "size": "negligible",
+        "mean_diff": 0.191
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.14,
+        "size": "negligible",
+        "mean_diff": -0.152
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.502,
+        "size": "medium",
+        "mean_diff": -0.49
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.541,
+        "size": "medium",
+        "mean_diff": -0.516
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.313,
+        "size": "small",
+        "mean_diff": -0.344
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.646,
+        "size": "medium",
+        "mean_diff": -0.681
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.695,
+        "size": "medium",
+        "mean_diff": -0.707
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.309,
+        "size": "small",
+        "mean_diff": -0.337
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.342,
+        "size": "small",
+        "mean_diff": -0.364
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.027,
+        "size": "negligible",
+        "mean_diff": -0.026
+      }
+    ]
+  },
+  {
+    "item": "Ethnic/Civic_ident_3",
+    "grouping": "pol_group",
+    "F": 12.657,
+    "p": 8.366e-10,
+    "eta_squared": 0.095,
+    "n_total": 489,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.209,
+        "size": "small",
+        "mean_diff": -0.201
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.441,
+        "size": "small",
+        "mean_diff": -0.483
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.761,
+        "size": "medium",
+        "mean_diff": -0.74
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.296,
+        "size": "large",
+        "mean_diff": -1.094
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.257,
+        "size": "small",
+        "mean_diff": -0.282
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.518,
+        "size": "medium",
+        "mean_diff": -0.538
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.951,
+        "size": "large",
+        "mean_diff": -0.892
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.228,
+        "size": "small",
+        "mean_diff": -0.256
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.579,
+        "size": "medium",
+        "mean_diff": -0.61
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.378,
+        "size": "small",
+        "mean_diff": -0.354
+      }
+    ]
+  },
+  {
+    "item": "Ethnic/Civic_ident_4",
+    "grouping": "pol_group",
+    "F": 5.748,
+    "p": 0.0002,
+    "eta_squared": 0.045,
+    "n_total": 489,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.251,
+        "size": "small",
+        "mean_diff": 0.29
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.364,
+        "size": "small",
+        "mean_diff": 0.401
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.339,
+        "size": "small",
+        "mean_diff": 0.375
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.764,
+        "size": "medium",
+        "mean_diff": 0.882
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.1,
+        "size": "negligible",
+        "mean_diff": 0.111
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.076,
+        "size": "negligible",
+        "mean_diff": 0.085
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.513,
+        "size": "medium",
+        "mean_diff": 0.592
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.024,
+        "size": "negligible",
+        "mean_diff": -0.026
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.431,
+        "size": "small",
+        "mean_diff": 0.481
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.448,
+        "size": "small",
+        "mean_diff": 0.507
+      }
+    ]
+  },
+  {
+    "item": "Ethnic/Civic_ident_5",
+    "grouping": "pol_group",
+    "F": 0.979,
+    "p": 0.4183,
+    "eta_squared": 0.008,
+    "n_total": 489,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.088,
+        "size": "negligible",
+        "mean_diff": 0.103
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.03,
+        "size": "negligible",
+        "mean_diff": -0.035
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.229,
+        "size": "small",
+        "mean_diff": -0.25
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.138,
+        "size": "negligible",
+        "mean_diff": -0.166
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.115,
+        "size": "negligible",
+        "mean_diff": -0.138
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.295,
+        "size": "small",
+        "mean_diff": -0.353
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.217,
+        "size": "small",
+        "mean_diff": -0.27
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.182,
+        "size": "negligible",
+        "mean_diff": -0.215
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.108,
+        "size": "negligible",
+        "mean_diff": -0.132
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.069,
+        "size": "negligible",
+        "mean_diff": 0.084
+      }
+    ]
+  },
+  {
+    "item": "Ethnic/Civic_ident_6",
+    "grouping": "pol_group",
+    "F": 8.97,
+    "p": 5.392e-07,
+    "eta_squared": 0.069,
+    "n_total": 489,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.074,
+        "size": "negligible",
+        "mean_diff": -0.073
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.289,
+        "size": "small",
+        "mean_diff": -0.317
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.878,
+        "size": "large",
+        "mean_diff": -0.865
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.673,
+        "size": "medium",
+        "mean_diff": -0.814
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.225,
+        "size": "small",
+        "mean_diff": -0.244
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.787,
+        "size": "medium",
+        "mean_diff": -0.792
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.641,
+        "size": "medium",
+        "mean_diff": -0.741
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.498,
+        "size": "small",
+        "mean_diff": -0.548
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.424,
+        "size": "small",
+        "mean_diff": -0.497
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.042,
+        "size": "negligible",
+        "mean_diff": 0.051
+      }
+    ]
+  },
+  {
+    "item": "Ethnic/Civic_ident_7",
+    "grouping": "pol_group",
+    "F": 1.539,
+    "p": 0.1896,
+    "eta_squared": 0.013,
+    "n_total": 489,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.062,
+        "size": "negligible",
+        "mean_diff": 0.07
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.071,
+        "size": "negligible",
+        "mean_diff": -0.082
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.368,
+        "size": "small",
+        "mean_diff": -0.396
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.161,
+        "size": "negligible",
+        "mean_diff": -0.209
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.133,
+        "size": "negligible",
+        "mean_diff": -0.152
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.438,
+        "size": "small",
+        "mean_diff": -0.466
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.228,
+        "size": "small",
+        "mean_diff": -0.279
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.277,
+        "size": "small",
+        "mean_diff": -0.314
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.104,
+        "size": "negligible",
+        "mean_diff": -0.127
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.152,
+        "size": "negligible",
+        "mean_diff": 0.187
+      }
+    ]
+  },
+  {
+    "item": "Ethnic/Civic_ident_8",
+    "grouping": "pol_group",
+    "F": 1.576,
+    "p": 0.1794,
+    "eta_squared": 0.013,
+    "n_total": 489,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.074,
+        "size": "negligible",
+        "mean_diff": 0.075
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.052,
+        "size": "negligible",
+        "mean_diff": -0.056
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.283,
+        "size": "small",
+        "mean_diff": -0.271
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.222,
+        "size": "small",
+        "mean_diff": -0.243
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.124,
+        "size": "negligible",
+        "mean_diff": -0.132
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.355,
+        "size": "small",
+        "mean_diff": -0.346
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.299,
+        "size": "small",
+        "mean_diff": -0.318
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.205,
+        "size": "small",
+        "mean_diff": -0.214
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.171,
+        "size": "negligible",
+        "mean_diff": -0.186
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.027,
+        "size": "negligible",
+        "mean_diff": 0.028
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_1",
+    "grouping": "pol_group",
+    "F": 56.158,
+    "p": 6.841e-39,
+    "eta_squared": 0.317,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.153,
+        "size": "negligible",
+        "mean_diff": -0.182
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.654,
+        "size": "medium",
+        "mean_diff": -0.801
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -2.229,
+        "size": "large",
+        "mean_diff": -1.906
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -2.594,
+        "size": "large",
+        "mean_diff": -2.062
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.505,
+        "size": "medium",
+        "mean_diff": -0.619
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.668,
+        "size": "large",
+        "mean_diff": -1.724
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -1.977,
+        "size": "large",
+        "mean_diff": -1.88
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.965,
+        "size": "large",
+        "mean_diff": -1.105
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -1.167,
+        "size": "large",
+        "mean_diff": -1.261
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.249,
+        "size": "small",
+        "mean_diff": -0.156
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_2",
+    "grouping": "pol_group",
+    "F": 7.128,
+    "p": 0,
+    "eta_squared": 0.056,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.328,
+        "size": "small",
+        "mean_diff": -0.319
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.423,
+        "size": "small",
+        "mean_diff": -0.384
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.791,
+        "size": "medium",
+        "mean_diff": -0.667
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.018,
+        "size": "large",
+        "mean_diff": -0.766
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.071,
+        "size": "negligible",
+        "mean_diff": -0.066
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.38,
+        "size": "small",
+        "mean_diff": -0.348
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.534,
+        "size": "medium",
+        "mean_diff": -0.447
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.32,
+        "size": "small",
+        "mean_diff": -0.282
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.454,
+        "size": "small",
+        "mean_diff": -0.381
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.139,
+        "size": "negligible",
+        "mean_diff": -0.099
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_3",
+    "grouping": "pol_group",
+    "F": 6.706,
+    "p": 0,
+    "eta_squared": 0.053,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.118,
+        "size": "negligible",
+        "mean_diff": -0.098
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.394,
+        "size": "small",
+        "mean_diff": -0.257
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.807,
+        "size": "large",
+        "mean_diff": -0.479
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.744,
+        "size": "medium",
+        "mean_diff": -0.47
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.23,
+        "size": "small",
+        "mean_diff": -0.159
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.54,
+        "size": "medium",
+        "mean_diff": -0.381
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.532,
+        "size": "medium",
+        "mean_diff": -0.372
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.382,
+        "size": "small",
+        "mean_diff": -0.222
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.354,
+        "size": "small",
+        "mean_diff": -0.213
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.019,
+        "size": "negligible",
+        "mean_diff": 0.01
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_4",
+    "grouping": "pol_group",
+    "F": 38.826,
+    "p": 3.43e-28,
+    "eta_squared": 0.243,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.005,
+        "size": "negligible",
+        "mean_diff": -0.003
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": 0.25,
+        "size": "small",
+        "mean_diff": 0.217
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.511,
+        "size": "medium",
+        "mean_diff": 0.354
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 1.263,
+        "size": "large",
+        "mean_diff": 1.4
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.264,
+        "size": "small",
+        "mean_diff": 0.22
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.523,
+        "size": "medium",
+        "mean_diff": 0.357
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 1.415,
+        "size": "large",
+        "mean_diff": 1.403
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.153,
+        "size": "negligible",
+        "mean_diff": 0.137
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 1.145,
+        "size": "large",
+        "mean_diff": 1.184
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.929,
+        "size": "large",
+        "mean_diff": 1.046
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_5",
+    "grouping": "pol_group",
+    "F": 3.192,
+    "p": 0.0132,
+    "eta_squared": 0.026,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.067,
+        "size": "negligible",
+        "mean_diff": -0.069
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.003,
+        "size": "negligible",
+        "mean_diff": -0.004
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.315,
+        "size": "small",
+        "mean_diff": 0.375
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.296,
+        "size": "small",
+        "mean_diff": 0.356
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.062,
+        "size": "negligible",
+        "mean_diff": 0.066
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.431,
+        "size": "small",
+        "mean_diff": 0.444
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.391,
+        "size": "small",
+        "mean_diff": 0.425
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.342,
+        "size": "small",
+        "mean_diff": 0.379
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.319,
+        "size": "small",
+        "mean_diff": 0.36
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.016,
+        "size": "negligible",
+        "mean_diff": -0.019
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_6",
+    "grouping": "pol_group",
+    "F": 2.376,
+    "p": 0.0512,
+    "eta_squared": 0.019,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.066,
+        "size": "negligible",
+        "mean_diff": 0.071
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.174,
+        "size": "negligible",
+        "mean_diff": -0.183
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.452,
+        "size": "small",
+        "mean_diff": -0.458
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.194,
+        "size": "negligible",
+        "mean_diff": -0.217
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.244,
+        "size": "small",
+        "mean_diff": -0.253
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.528,
+        "size": "medium",
+        "mean_diff": -0.529
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.267,
+        "size": "small",
+        "mean_diff": -0.287
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.271,
+        "size": "small",
+        "mean_diff": -0.276
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.032,
+        "size": "negligible",
+        "mean_diff": -0.034
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.23,
+        "size": "small",
+        "mean_diff": 0.242
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_7",
+    "grouping": "pol_group",
+    "F": 1.165,
+    "p": 0.3256,
+    "eta_squared": 0.01,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.047,
+        "size": "negligible",
+        "mean_diff": -0.055
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.041,
+        "size": "negligible",
+        "mean_diff": -0.045
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": 0.239,
+        "size": "small",
+        "mean_diff": 0.24
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": 0.147,
+        "size": "negligible",
+        "mean_diff": 0.165
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": 0.009,
+        "size": "negligible",
+        "mean_diff": 0.01
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.255,
+        "size": "small",
+        "mean_diff": 0.295
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": 0.185,
+        "size": "negligible",
+        "mean_diff": 0.221
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": 0.262,
+        "size": "small",
+        "mean_diff": 0.285
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": 0.188,
+        "size": "negligible",
+        "mean_diff": 0.211
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.067,
+        "size": "negligible",
+        "mean_diff": -0.074
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_8",
+    "grouping": "pol_group",
+    "F": 2.607,
+    "p": 0.0351,
+    "eta_squared": 0.021,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.032,
+        "size": "negligible",
+        "mean_diff": -0.033
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.221,
+        "size": "small",
+        "mean_diff": -0.214
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.483,
+        "size": "small",
+        "mean_diff": -0.427
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.42,
+        "size": "small",
+        "mean_diff": -0.367
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.185,
+        "size": "negligible",
+        "mean_diff": -0.181
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.414,
+        "size": "small",
+        "mean_diff": -0.394
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.36,
+        "size": "small",
+        "mean_diff": -0.334
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.23,
+        "size": "small",
+        "mean_diff": -0.213
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.167,
+        "size": "negligible",
+        "mean_diff": -0.153
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.075,
+        "size": "negligible",
+        "mean_diff": 0.06
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_9",
+    "grouping": "pol_group",
+    "F": 3.484,
+    "p": 0.0081,
+    "eta_squared": 0.028,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.203,
+        "size": "small",
+        "mean_diff": -0.182
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.251,
+        "size": "small",
+        "mean_diff": -0.248
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.905,
+        "size": "large",
+        "mean_diff": -0.635
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.496,
+        "size": "small",
+        "mean_diff": -0.429
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.067,
+        "size": "negligible",
+        "mean_diff": -0.066
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.548,
+        "size": "medium",
+        "mean_diff": -0.454
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.276,
+        "size": "small",
+        "mean_diff": -0.248
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.407,
+        "size": "small",
+        "mean_diff": -0.387
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.187,
+        "size": "negligible",
+        "mean_diff": -0.181
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.257,
+        "size": "small",
+        "mean_diff": 0.206
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_10",
+    "grouping": "pol_group",
+    "F": 16.981,
+    "p": 4.873e-13,
+    "eta_squared": 0.123,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.178,
+        "size": "negligible",
+        "mean_diff": -0.184
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.481,
+        "size": "small",
+        "mean_diff": -0.479
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -1.411,
+        "size": "large",
+        "mean_diff": -0.99
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.459,
+        "size": "large",
+        "mean_diff": -1.039
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.285,
+        "size": "small",
+        "mean_diff": -0.295
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.859,
+        "size": "large",
+        "mean_diff": -0.805
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.968,
+        "size": "large",
+        "mean_diff": -0.854
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.541,
+        "size": "medium",
+        "mean_diff": -0.51
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.615,
+        "size": "medium",
+        "mean_diff": -0.559
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.079,
+        "size": "negligible",
+        "mean_diff": -0.049
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_11",
+    "grouping": "pol_group",
+    "F": 12.382,
+    "p": 1.355e-09,
+    "eta_squared": 0.093,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.043,
+        "size": "negligible",
+        "mean_diff": -0.053
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.437,
+        "size": "small",
+        "mean_diff": -0.532
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -0.933,
+        "size": "large",
+        "mean_diff": -1.052
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -0.896,
+        "size": "large",
+        "mean_diff": -1.023
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.397,
+        "size": "small",
+        "mean_diff": -0.479
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.875,
+        "size": "large",
+        "mean_diff": -0.999
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -0.845,
+        "size": "large",
+        "mean_diff": -0.97
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.445,
+        "size": "small",
+        "mean_diff": -0.52
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.42,
+        "size": "small",
+        "mean_diff": -0.491
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": 0.027,
+        "size": "negligible",
+        "mean_diff": 0.029
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_12",
+    "grouping": "pol_group",
+    "F": 154.273,
+    "p": 6.353e-85,
+    "eta_squared": 0.561,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": -0.165,
+        "size": "negligible",
+        "mean_diff": -0.162
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.618,
+        "size": "medium",
+        "mean_diff": -0.77
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -3.192,
+        "size": "large",
+        "mean_diff": -2.771
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -4.206,
+        "size": "large",
+        "mean_diff": -3.079
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.514,
+        "size": "medium",
+        "mean_diff": -0.608
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -2.962,
+        "size": "large",
+        "mean_diff": -2.609
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -3.705,
+        "size": "large",
+        "mean_diff": -2.918
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.683,
+        "size": "large",
+        "mean_diff": -2.001
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -2.104,
+        "size": "large",
+        "mean_diff": -2.309
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.485,
+        "size": "small",
+        "mean_diff": -0.309
+      }
+    ]
+  },
+  {
+    "item": "symbolic_nation_13",
+    "grouping": "pol_group",
+    "F": 27.694,
+    "p": 1.015e-20,
+    "eta_squared": 0.187,
+    "n_total": 488,
+    "pairwise": [
+      {
+        "group1": "Left",
+        "group2": "Left + Republican",
+        "d": 0.052,
+        "size": "negligible",
+        "mean_diff": 0.058
+      },
+      {
+        "group1": "Left",
+        "group2": "Republican",
+        "d": -0.426,
+        "size": "small",
+        "mean_diff": -0.483
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist + Republican",
+        "d": -1.44,
+        "size": "large",
+        "mean_diff": -1.156
+      },
+      {
+        "group1": "Left",
+        "group2": "Monarchist",
+        "d": -1.594,
+        "size": "large",
+        "mean_diff": -1.216
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Republican",
+        "d": -0.481,
+        "size": "small",
+        "mean_diff": -0.541
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist + Republican",
+        "d": -1.288,
+        "size": "large",
+        "mean_diff": -1.214
+      },
+      {
+        "group1": "Left + Republican",
+        "group2": "Monarchist",
+        "d": -1.446,
+        "size": "large",
+        "mean_diff": -1.274
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist + Republican",
+        "d": -0.645,
+        "size": "medium",
+        "mean_diff": -0.673
+      },
+      {
+        "group1": "Republican",
+        "group2": "Monarchist",
+        "d": -0.739,
+        "size": "medium",
+        "mean_diff": -0.733
+      },
+      {
+        "group1": "Monarchist + Republican",
+        "group2": "Monarchist",
+        "d": -0.106,
+        "size": "negligible",
+        "mean_diff": -0.06
+      }
+    ]
+  }
+]
