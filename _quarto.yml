@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "پروژهٔ سیاست دیاسپورا"   # Diaspora Politics Project
+  description: "پیمایشی از نگرش‌های سیاسی ایرانیان داخل و خارج از کشور"
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: "خانه"
+      - href: findings/main-findings.qmd
+        text: "یافته‌ها"
+      - href: explorer.qmd
+        text: "کاوشگر داده‌ها"
+      - href: methods.qmd
+        text: "روش‌شناسی"
+      - href: findings/thermometers.qmd
+        text: "دماسنج احساسات"
+      - href: findings/network.qmd
+        text: "شبکهٔ باورها"
+  page-footer:
+    center: |
+      دادهٔ کامل و کد تحلیل در [GitHub](https://github.com/) · ساخته‌شده با Quarto
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "در این صفحه"
+    toc-location: right
+    smooth-scroll: true
+    anchor-sections: true
+    fig-align: center
+    code-tools: false
+    code-link: false
+    # RTL handled per-page via lang/dir attributes in styles.css
+
+lang: fa

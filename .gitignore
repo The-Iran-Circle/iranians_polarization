@@ -1,0 +1,25 @@
+# Raw data with PII — never commit
+DPP_March 23.xlsx
+*.xlsx
+*.xls
+
+# Quarto build outputs
+_site/
+.quarto/
+
+# OS / editor
+.DS_Store
+.Rproj.user/
+.Rhistory
+*.Rproj
+
+/.quarto/
+
+
+# R session state — may contain raw data
+.RData
+.Rhistory
+.Rapp.history
+
+# Diagnostic / scratch files
+R/diagnose.R

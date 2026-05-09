@@ -1,0 +1,668 @@
+{
+  "batteries": {
+    "Political_ideas": {
+      "label_en": "Political Ideas",
+      "label_fa": "ایده‌های سیاسی",
+      "description_fa": "میزان موافقت شما با هر یک از ایده‌های سیاسی زیر چقدر است؟",
+      "scale": {
+        "min": 1,
+        "max": 5,
+        "midpoint": 3,
+        "ticks_en": ["Not at all\nimportant", "", "Somewhat\nimportant", "", "Very\nimportant"],
+        "ticks_fa": ["اصلاً\nاهمیت ندارد", "", "تا حدی", "", "بسیار\nاهمیت دارد"]
+      },
+      "items": [
+        {
+          "id": "Political_ideas_1",
+          "label_en": "Human rights & individual freedoms",
+          "label_fa": "حقوق بشر و آزادی‌های فردی",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - حقوق بشر و آزادی‌های فردی"
+        },
+        {
+          "id": "Political_ideas_2",
+          "label_en": "Social justice & workers' rights",
+          "label_fa": "عدالت اجتماعی و حقوق کارگران",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - عدالت اجتماعی و حقوق کارگران"
+        },
+        {
+          "id": "Political_ideas_3",
+          "label_en": "Nationalism / Iran-centrism",
+          "label_fa": "ملی‌گرایی / ایران‌گرایی",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - ملی‌گرایی / ایران‌گرایی"
+        },
+        {
+          "id": "Political_ideas_4",
+          "label_en": "Environment",
+          "label_fa": "محیط‌زیست",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - محیط‌زیست"
+        },
+        {
+          "id": "Political_ideas_5",
+          "label_en": "Free-market economy",
+          "label_fa": "اقتصاد بازار آزاد",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - اقتصاد بازار آزاد"
+        },
+        {
+          "id": "Political_ideas_6",
+          "label_en": "Ethnic minority rights & decentralization",
+          "label_fa": "حقوق اقلیت‌های قومی و تمرکززدایی",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - حقوق اقلیت‌های قومی و تمرکززدایی"
+        },
+        {
+          "id": "Political_ideas_7",
+          "label_en": "Separation of religion & state",
+          "label_fa": "جدایی دین از حکومت",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - جدایی دین از حکومت"
+        },
+        {
+          "id": "Political_ideas_8",
+          "label_en": "Religious & traditional values",
+          "label_fa": "ارزش‌های دینی و سنتی",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - ارزش‌های دینی و سنتی"
+        },
+        {
+          "id": "Political_ideas_9",
+          "label_en": "LGBTQ rights",
+          "label_fa": "حقوق همجنسگرایان و اقلیت‌های جنسی",
+          "full_fa": "از نظر سیاسی، هر یک از موضوعات زیر تا چه اندازه برای شما اهمیت دارد؟ - حقوق همجنسگرایان و اقلیت‌های جنسی"
+        }
+      ]
+    },
+    "SDO": {
+      "label_en": "Social Dominance Orientation",
+      "label_fa": "گرایش به سلطهٔ اجتماعی",
+      "description_fa": "میزان موافقت با گزاره‌های مربوط به نابرابری گروه‌های اجتماعی",
+      "scale": {
+        "min": 1,
+        "max": 7,
+        "midpoint": 4,
+        "ticks_en": ["Strongly\ndisagree", "", "", "Neutral", "", "", "Strongly\nagree"],
+        "ticks_fa": ["کاملاً\nمخالفم", "", "", "نه موافق\nنه مخالف", "", "", "کاملاً\nموافقم"]
+      },
+      "items": [
+        {
+          "id": "SDO_dom_pro_1",
+          "label_en": "Some groups should dominate",
+          "label_fa": "برخی گروه‌ها باید مسلط باشند",
+          "full_fa": "در یک جامعه‌ی ایده‌آل، لازم است که بعضی از گروه‌های اجتماعی بالاتر باشند و بعضی دیگر پایین‌تر."
+        },
+        {
+          "id": "SDO_dom_pro_2",
+          "label_en": "Inferior groups stay in place",
+          "label_fa": "گروه‌های پایین در جای خود بمانند",
+          "full_fa": ".بعضی گروه‌های اجتماعی ذاتاً از بعضی گروه‌های دیگر پایین‌تر هستند"
+        },
+        {
+          "id": "SDO_dom_con_1",
+          "label_en": "No group dominance (rev.)",
+          "label_fa": "بدون سلطهٔ گروهی (معکوس)",
+          "full_fa": ".نباید هیچ گروهی در جامعه بر بقیه مسلط باشد"
+        },
+        {
+          "id": "SDO_dom_con_2",
+          "label_en": "Equal status across groups (rev.)",
+          "label_fa": "برابری گروه‌ها (معکوس)",
+          "full_fa": "طبقات و گروه‌های اجتماعی‌ای که پایین‌تر قرار گرفته‌اند، به همان اندازه‌ی گروه‌های بالادست شایستگی و حق دارند."
+        },
+        {
+          "id": "SDO_antiEgal_pro_1",
+          "label_en": "Equality is unrealistic",
+          "label_fa": "برابری غیرواقع‌بینانه است",
+          "full_fa": ".برابری بین گروه‌های اجتماعی نباید هدف اصلی ما باشد"
+        },
+        {
+          "id": "SDO_antiEgal_pro_2",
+          "label_en": "Less equality, fewer problems",
+          "label_fa": "برابری کمتر، مشکلات کمتر",
+          "full_fa": ".تلاش برای برابر کردن گروه‌های اجتماعی کار درست و عادلانه ای نیست"
+        },
+        {
+          "id": "SDO_antiEgal_con_1",
+          "label_en": "Push toward equality (rev.)",
+          "label_fa": "حرکت به سوی برابری (معکوس)",
+          "full_fa": ".باید تا جایی که می‌توانیم شرایط گروه‌های مختلف اجتماعی را برابرتر کنیم"
+        },
+        {
+          "id": "SDO_antiEgal_con_2",
+          "label_en": "Equal income/opportunity (rev.)",
+          "label_fa": "درآمد و فرصت برابر (معکوس)",
+          "full_fa": ".باید کاری کنیم که همه‌ی گروه‌های اجتماعی شانس برابری برای موفق شدن داشته باشند"
+        }
+      ]
+    },
+    "ACT": {
+      "label_en": "Authoritarianism (RWA)",
+      "label_fa": "اقتدارگرایی",
+      "description_fa": "اطاعت، محافظه‌کاری و خشونت در نگرش‌های اقتدارگرایانه",
+      "scale": {
+        "min": 1,
+        "max": 7,
+        "midpoint": 4,
+        "ticks_en": ["Strongly\ndisagree", "", "", "Neutral", "", "", "Strongly\nagree"],
+        "ticks_fa": ["کاملاً\nمخالفم", "", "", "نه موافق\nنه مخالف", "", "", "کاملاً\nموافقم"]
+      },
+      "items": [
+        {
+          "id": "ACT_submis_pro_1",
+          "label_en": "Obey authority",
+          "label_fa": "اطاعت از مقامات",
+          "full_fa": "آنچه جامعه ما نیاز دارد این است که همه افراد با حفظ وحدت و هماهنگی از رهبر و پیشوای واقعیِ ملت پیروی کنند تا انسجام برقرار شود."
+        },
+        {
+          "id": "ACT_submis_pro_2",
+          "label_en": "Respect authority figures",
+          "label_fa": "احترام به صاحبان قدرت",
+          "full_fa": ".اطاعت و احترام به بزرگترها، از مهم‌ترین فضیلت‌هایی است که کودکان باید یاد بگیرند"
+        },
+        {
+          "id": "ACT_submis_pro_3",
+          "label_en": "Trust the leadership",
+          "label_fa": "اعتماد به رهبری",
+          "full_fa": "کشور ما زمانی بزرگ خواهد شد که به اقتدار احترام بگذاریم و از رهبرِ واقعیِ ملّتِ خود پیروی کنیم."
+        },
+        {
+          "id": "ACT_submis_con_1",
+          "label_en": "Question authority (rev.)",
+          "label_fa": "زیر سؤال بردن قدرت (معکوس)",
+          "full_fa": "مردم باید اجازه داشته باشند در هر ساختار سیاسی سخنرانی کنند و کتاب بنویسند و حتی خواستار سرنگونی آن حکومت شوند."
+        },
+        {
+          "id": "ACT_conserv_pro_1",
+          "label_en": "Stick to traditional values",
+          "label_fa": "پایبندی به ارزش‌های سنتی",
+          "full_fa": ".ارزش‌های قدیمی مثل غیرت و احترام به ناموس از شیوه‌ های ارزشمند زندگی کردن هستند"
+        },
+        {
+          "id": "ACT_conserv_pro_2",
+          "label_en": "Old ways are best",
+          "label_fa": "روش‌های قدیمی بهترند",
+          "full_fa": "قوانین و سنت ها درباره‌ی سقط جنین، پورنوگرافی و ازدواج باید پیش از آن‌که دیر شود، به‌طور سخت‌گیرانه رعایت شوند."
+        },
+        {
+          "id": "ACT_conserv_con_1",
+          "label_en": "Embrace change (rev.)",
+          "label_fa": "پذیرش تغییر (معکوس)",
+          "full_fa": ".هیچ ایرادی در رابطه‌ی جنسی پیش از ازدواج وجود ندارد"
+        },
+        {
+          "id": "ACT_conserv_con_2",
+          "label_en": "New values welcome (rev.)",
+          "label_fa": "ارزش‌های نو خوش‌آیندند (معکوس)",
+          "full_fa": ".ارزش‌ها، روش و اخلاقیات سنتی  ایرادات  زیادی دارند"
+        },
+        {
+          "id": "ACT_agress_con_1",
+          "label_en": "Tolerance for dissenters (rev.)",
+          "label_fa": "تحمل مخالفان (معکوس)",
+          "full_fa": "مجرمان در جامعه انسان‌های بداقبالی هستند که به مراقبت بهتر نیاز دارند، نه مجازات بیشتر."
+        },
+        {
+          "id": "ACT_agress_con_2",
+          "label_en": "Forgiveness over punishment (rev.)",
+          "label_fa": "بخشش بر مجازات (معکوس)",
+          "full_fa": ".ایجاد دولت قوی و سخت‌گیر به کشور ما آسیب می‌زند، و به آن کمکی نمیکند"
+        },
+        {
+          "id": "ACT_agress_pro_1",
+          "label_en": "Strong punishment for deviance",
+          "label_fa": "مجازات شدید انحراف",
+          "full_fa": "وقتی جامعه مطلوب ما ایجاد شود، باید تمام عناصر منفی ای را که مشکل ایجاد میکنند در هم کوبید."
+        },
+        {
+          "id": "ACT_agress_con_3",
+          "label_en": "Soft on crime (rev.)",
+          "label_fa": "نرمش با مجرمان (معکوس)",
+          "full_fa": ".مجازات اعدام وحشیانه است و هرگز قابل توجیه نیست"
+        }
+      ]
+    },
+    "MFQ": {
+      "label_en": "Moral Foundations",
+      "label_fa": "بنیادهای اخلاقی",
+      "description_fa": "اهمیت ارزش‌های اخلاقی پایه‌ای در داوری شما",
+      "scale": {
+        "min": 1,
+        "max": 7,
+        "midpoint": 4,
+        "ticks_en": ["Strongly\ndisagree", "", "", "Neutral", "", "", "Strongly\nagree"],
+        "ticks_fa": ["کاملاً\nمخالفم", "", "", "نه موافق\nنه مخالف", "", "", "کاملاً\nموافقم"]
+      },
+      "items": [
+        {
+          "id": "MFQ_Auth_1",
+          "label_en": "Authority/respect matters",
+          "label_fa": "اقتدار و احترام مهم است",
+          "full_fa": ".مردان و زنان هرکدام نقش‌های متفاوتی در جامعه دارند"
+        },
+        {
+          "id": "MFQ_InGroup_1",
+          "label_en": "Loyalty to one's group",
+          "label_fa": "وفاداری به گروه خودی",
+          "full_fa": ".به تاریخ کشورم افتخار می‌کنم"
+        },
+        {
+          "id": "MFQ_InGroup_2",
+          "label_en": "Group loyalty (2)",
+          "label_fa": "وفاداری گروهی (۲)",
+          "full_fa": "افراد باید به اعضای خانواده‌ی خود وفادار باشند، حتی وقتی آن‌ها کار اشتباهی انجام داده‌اند."
+        },
+        {
+          "id": "MFQ_Harm_1",
+          "label_en": "Avoiding harm",
+          "label_fa": "پرهیز از آسیب",
+          "full_fa": ".کشتن یک انسان هرگز نمی‌تواند کار درستی باشد"
+        },
+        {
+          "id": "MFQ_Fair_1",
+          "label_en": "Fairness",
+          "label_fa": "انصاف",
+          "full_fa": "وقتی یک دولت قانون وضع می‌کند، مهم‌ترین اصل باید این باشد که با همه به‌طور منصفانه رفتار شود."
+        },
+        {
+          "id": "MFQ_Purity_1",
+          "label_en": "Purity/sanctity",
+          "label_fa": "پاکی و قداست",
+          "full_fa": ".پاکدامنی یک فضیلت مهم و ارزشمند است"
+        }
+      ]
+    },
+    "Policy_attitudes": {
+      "label_en": "Policy Attitudes",
+      "label_fa": "نگرش‌های سیاست‌گذاری",
+      "description_fa": "میزان موافقت با موضع‌گیری‌های مشخص سیاست‌گذاری",
+      "scale": {
+        "min": 1,
+        "max": 7,
+        "midpoint": 4,
+        "ticks_en": ["Strongly\ndisagree", "", "", "Neutral", "", "", "Strongly\nagree"],
+        "ticks_fa": ["کاملاً\nمخالفم", "", "", "نه موافق\nنه مخالف", "", "", "کاملاً\nموافقم"]
+      },
+      "items": [
+        {
+          "id": "Foreign_Inter",
+          "label_en": "Foreign intervention",
+          "label_fa": "مداخلهٔ خارجی",
+          "full_fa": ".فکر میکنم حمله یک کشور خارجی برای تغییر رژیم در ایران کاملا موجه است"
+        },
+        {
+          "id": "Violence_peop",
+          "label_en": "Violence in politics",
+          "label_fa": "خشونت در سیاست",
+          "full_fa": "در شرایط فعلی، استفاده از برخی اشکال خشونت از سوی معترضان علیه حکومت را قابل توجیه می‌دانم."
+        },
+        {
+          "id": "Federalism",
+          "label_en": "Federalism",
+          "label_fa": "فدرالیسم",
+          "full_fa": "در یک نظام سیاسی مطلوب در ایران، مناطق مختلف باید بتوانند برخی قوانین مخصوص منطقه خود را خودشان تعیین کنند."
+        },
+        {
+          "id": "SociSec",
+          "label_en": "Social security",
+          "label_fa": "تأمین اجتماعی",
+          "full_fa": "یک حکومت مطلوب در ایران موظف است آموزش، درمان و تحصیل رایگان را برای همه‌ی مردم فراهم کند."
+        },
+        {
+          "id": "Compromise",
+          "label_en": "Political compromise",
+          "label_fa": "سازش سیاسی",
+          "full_fa": ".سازش و مصالحه با بخشی از افراد با نفوذِ رژیم فعلی برای تغییر رژیم موجه است"
+        },
+        {
+          "id": "Maternal_lang",
+          "label_en": "Education in mother tongue",
+          "label_fa": "آموزش به زبان مادری",
+          "full_fa": "افراد از هر قومیتی باید این امکان را داشته باشند که به زبانِ مادری خودشان تحصیل کنند."
+        },
+        {
+          "id": "Palestine",
+          "label_en": "Palestine cause",
+          "label_fa": "مسئلهٔ فلسطین",
+          "full_fa": ".موضوع جنگ در غزه و کشته شدن فلسطینی ها جزو مسائل مهم برای من نیست"
+        },
+        {
+          "id": "WomenRights",
+          "label_en": "Women's rights",
+          "label_fa": "حقوق زنان",
+          "full_fa": "اینکه حقوق زنان به صورت کامل با مردان مساوی باشد باید از اولویت های جامعه و حکومت در کشور ما باشد."
+        },
+        {
+          "id": "DistributiveJustice",
+          "label_en": "Distributive justice",
+          "label_fa": "عدالت توزیعی",
+          "full_fa": "از بین بردن اختلاف طبقاتی باید از اولویت های جامعه و حکومت در کشور ما باشد."
+        },
+        {
+          "id": "HomoTrans",
+          "label_en": "LGBTQ rights",
+          "label_fa": "حقوق دگرباشان",
+          "full_fa": ".ازدواج همجنسگرایان و حقوق کامل ترنس ها باید در ایران کاملا رعایت شود"
+        },
+        {
+          "id": "Afghan_Immig_eco",
+          "label_en": "Afghan immigrants — economy",
+          "label_fa": "مهاجران افغان — اقتصاد",
+          "full_fa": ".حضور افغانستانی‌ها در ایران میتواند به اقتصاد کمک کند"
+        },
+        {
+          "id": "Afghan_Immig_cul",
+          "label_en": "Afghan immigrants — culture",
+          "label_fa": "مهاجران افغان — فرهنگ",
+          "full_fa": ".حضور افغانستانی‌ها در ایران موجب عقب گرد فرهنگی می شود"
+        }
+      ]
+    },
+    "Ethnic_Civic": {
+      "label_en": "Ethnic vs. Civic Identity",
+      "label_fa": "هویت قومی-مدنی",
+      "description_fa": "برای ایرانی بودن «واقعی»، هر یک از ویژگی‌های زیر چقدر اهمیت دارند؟",
+      "scale": {
+        "min": 1,
+        "max": 5,
+        "midpoint": 3,
+        "ticks_en": ["Not at all\nimportant", "", "Somewhat\nimportant", "", "Very\nimportant"],
+        "ticks_fa": ["اصلاً\nاهمیت ندارد", "", "تا حدی", "", "بسیار\nاهمیت دارد"]
+      },
+      "items": [
+        {
+          "id": "Ethnic/Civic_ident_1",
+          "label_en": "Born in Iran",
+          "label_fa": "تولد در ایران",
+          "full_fa": "درباره اینکه چه چیزهایی باعث می‌شود یک فرد «واقعاً ایرانی» محسوب شود، دیدگاه‌های متفاوتی وجود دارد. به نظر شما هر یک از موارد زیر چه اندازه برای اینکه یک فرد واقعاً ایرانی محسوب شود اهمیت دارد؟ - تولد در ایران"
+        },
+        {
+          "id": "Ethnic/Civic_ident_2",
+          "label_en": "Iranian ancestry",
+          "label_fa": "نیاکان ایرانی",
+          "full_fa": "درباره اینکه چه چیزهایی باعث می‌شود یک فرد «واقعاً ایرانی» محسوب شود، دیدگاه‌های متفاوتی وجود دارد. به نظر شما هر یک از موارد زیر چه اندازه برای اینکه یک فرد واقعاً ایرانی محسوب شود اهمیت دارد؟ - داشتن والدین ایرانی"
+        },
+        {
+          "id": "Ethnic/Civic_ident_3",
+          "label_en": "Speak Persian",
+          "label_fa": "تسلط به فارسی",
+          "full_fa": "درباره اینکه چه چیزهایی باعث می‌شود یک فرد «واقعاً ایرانی» محسوب شود، دیدگاه‌های متفاوتی وجود دارد. به نظر شما هر یک از موارد زیر چه اندازه برای اینکه یک فرد واقعاً ایرانی محسوب شود اهمیت دارد؟ - داشتن تبارِ ایرانی"
+        },
+        {
+          "id": "Ethnic/Civic_ident_4",
+          "label_en": "Live in Iran long-term",
+          "label_fa": "اقامت طولانی در ایران",
+          "full_fa": "درباره اینکه چه چیزهایی باعث می‌شود یک فرد «واقعاً ایرانی» محسوب شود، دیدگاه‌های متفاوتی وجود دارد. به نظر شما هر یک از موارد زیر چه اندازه برای اینکه یک فرد واقعاً ایرانی محسوب شود اهمیت دارد؟ - زندگی طولانی مدت در ایران"
+        },
+        {
+          "id": "Ethnic/Civic_ident_5",
+          "label_en": "Respect Iranian customs",
+          "label_fa": "احترام به آداب ایرانی",
+          "full_fa": "درباره اینکه چه چیزهایی باعث می‌شود یک فرد «واقعاً ایرانی» محسوب شود، دیدگاه‌های متفاوتی وجود دارد. به نظر شما هر یک از موارد زیر چه اندازه برای اینکه یک فرد واقعاً ایرانی محسوب شود اهمیت دارد؟ - توانایی صحبت کردن به فارسی"
+        },
+        {
+          "id": "Ethnic/Civic_ident_6",
+          "label_en": "Feel Iranian",
+          "label_fa": "احساس ایرانی بودن",
+          "full_fa": "درباره اینکه چه چیزهایی باعث می‌شود یک فرد «واقعاً ایرانی» محسوب شود، دیدگاه‌های متفاوتی وجود دارد. به نظر شما هر یک از موارد زیر چه اندازه برای اینکه یک فرد واقعاً ایرانی محسوب شود اهمیت دارد؟ - رعایت آداب و رسوم ایرانی"
+        },
+        {
+          "id": "Ethnic/Civic_ident_7",
+          "label_en": "Iranian citizenship",
+          "label_fa": "تابعیت ایرانی",
+          "full_fa": "درباره اینکه چه چیزهایی باعث می‌شود یک فرد «واقعاً ایرانی» محسوب شود، دیدگاه‌های متفاوتی وجود دارد. به نظر شما هر یک از موارد زیر چه اندازه برای اینکه یک فرد واقعاً ایرانی محسوب شود اهمیت دارد؟ - کمک به جامعه ایران"
+        },
+        {
+          "id": "Ethnic/Civic_ident_8",
+          "label_en": "Contribute to Iranian society",
+          "label_fa": "مشارکت در جامعهٔ ایرانی",
+          "full_fa": "درباره اینکه چه چیزهایی باعث می‌شود یک فرد «واقعاً ایرانی» محسوب شود، دیدگاه‌های متفاوتی وجود دارد. به نظر شما هر یک از موارد زیر چه اندازه برای اینکه یک فرد واقعاً ایرانی محسوب شود اهمیت دارد؟ - احساس تعلقِ شخص به ایران"
+        }
+      ]
+    },
+    "Symbolic_nation": {
+      "label_en": "Symbolic National Identity",
+      "label_fa": "هویت ملی نمادین",
+      "description_fa": "فکر کردن به هر یک از این نمادها تا چه حد در شما حس افتخار به ایرانی بودن ایجاد می‌کند؟",
+      "scale": {
+        "min": 1,
+        "max": 5,
+        "midpoint": 3,
+        "ticks_en": ["Not at all", "", "Moderately", "", "Very much"],
+        "ticks_fa": ["اصلاً", "", "تا حدودی", "", "خیلی زیاد"]
+      },
+      "items": [
+        {
+          "id": "symbolic_nation_1",
+          "label_en": "Cyrus the Great",
+          "label_fa": "کوروش بزرگ",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - کوروش کبیر"
+        },
+        {
+          "id": "symbolic_nation_2",
+          "label_en": "Yalda Night",
+          "label_fa": "شب یلدا",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - شب یلدا"
+        },
+        {
+          "id": "symbolic_nation_3",
+          "label_en": "Nowruz",
+          "label_fa": "نوروز",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - نوروز"
+        },
+        {
+          "id": "symbolic_nation_4",
+          "label_en": "Woman Life Freedom movement",
+          "label_fa": "جنبش زن، زندگی، آزادی",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - جنبش زن، زندگی، آزادی"
+        },
+        {
+          "id": "symbolic_nation_5",
+          "label_en": "Constitutional Revolution",
+          "label_fa": "انقلاب مشروطه",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - جنبش مشروطه"
+        },
+        {
+          "id": "symbolic_nation_6",
+          "label_en": "Traditional Iranian music",
+          "label_fa": "موسیقی سنتی ایرانی",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - موسیقی سنتی ایرانی"
+        },
+        {
+          "id": "symbolic_nation_7",
+          "label_en": "Iranian art cinema",
+          "label_fa": "سینمای هنری ایران",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - سینمای هنری ایران"
+        },
+        {
+          "id": "symbolic_nation_8",
+          "label_en": "Iranian food",
+          "label_fa": "غذای ایرانی",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - غذای ایرانی"
+        },
+        {
+          "id": "symbolic_nation_9",
+          "label_en": "Hafez poetry",
+          "label_fa": "شعر حافظ",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - غزلیات حافظ"
+        },
+        {
+          "id": "symbolic_nation_10",
+          "label_en": "Shahnameh (Ferdowsi)",
+          "label_fa": "شاهنامهٔ فردوسی",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - شاهنامه فردوسی"
+        },
+        {
+          "id": "symbolic_nation_11",
+          "label_en": "Iranian wrestling",
+          "label_fa": "کشتی ایرانی",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - ورزش کُشتی ایران"
+        },
+        {
+          "id": "symbolic_nation_12",
+          "label_en": "Lion & Sun flag",
+          "label_fa": "پرچم شیر و خورشید",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - پرچم شیر و خورشید"
+        },
+        {
+          "id": "symbolic_nation_13",
+          "label_en": "Persepolis",
+          "label_fa": "تخت جمشید",
+          "full_fa": "به عنوان یک فرد ایرانی، فکر کردن به هر یک از موارد زیر تا چه میزان باعث احساس خشنودی شما از ایرانی بودن‌تان می‌شود؟ - تخت جمشید"
+        }
+      ]
+    }
+  },
+  "groupings": {
+    "pol_group": {
+      "label_en": "Political Group",
+      "label_fa": "گروه سیاسی",
+      "levels": [
+        {
+          "id": "Left",
+          "label_en": "Left",
+          "label_fa": "چپ"
+        },
+        {
+          "id": "Left + Republican",
+          "label_en": "Left + Republican",
+          "label_fa": "چپ + جمهوری‌خواه"
+        },
+        {
+          "id": "Republican",
+          "label_en": "Republican",
+          "label_fa": "جمهوری‌خواه"
+        },
+        {
+          "id": "Monarchist + Republican",
+          "label_en": "Monarchist + Republican",
+          "label_fa": "پادشاهی‌خواه + جمهوری‌خواه"
+        },
+        {
+          "id": "Monarchist",
+          "label_en": "Monarchist",
+          "label_fa": "پادشاهی‌خواه"
+        }
+      ]
+    }
+  },
+  "item_to_battery": {
+    "Political_ideas_1": "Political_ideas",
+    "Political_ideas_2": "Political_ideas",
+    "Political_ideas_3": "Political_ideas",
+    "Political_ideas_4": "Political_ideas",
+    "Political_ideas_5": "Political_ideas",
+    "Political_ideas_6": "Political_ideas",
+    "Political_ideas_7": "Political_ideas",
+    "Political_ideas_8": "Political_ideas",
+    "Political_ideas_9": "Political_ideas",
+    "SDO_dom_pro_1": "SDO",
+    "SDO_dom_pro_2": "SDO",
+    "SDO_dom_con_1": "SDO",
+    "SDO_dom_con_2": "SDO",
+    "SDO_antiEgal_pro_1": "SDO",
+    "SDO_antiEgal_pro_2": "SDO",
+    "SDO_antiEgal_con_1": "SDO",
+    "SDO_antiEgal_con_2": "SDO",
+    "ACT_submis_pro_1": "ACT",
+    "ACT_submis_pro_2": "ACT",
+    "ACT_submis_pro_3": "ACT",
+    "ACT_submis_con_1": "ACT",
+    "ACT_conserv_pro_1": "ACT",
+    "ACT_conserv_pro_2": "ACT",
+    "ACT_conserv_con_1": "ACT",
+    "ACT_conserv_con_2": "ACT",
+    "ACT_agress_con_1": "ACT",
+    "ACT_agress_con_2": "ACT",
+    "ACT_agress_pro_1": "ACT",
+    "ACT_agress_con_3": "ACT",
+    "MFQ_Auth_1": "MFQ",
+    "MFQ_InGroup_1": "MFQ",
+    "MFQ_InGroup_2": "MFQ",
+    "MFQ_Harm_1": "MFQ",
+    "MFQ_Fair_1": "MFQ",
+    "MFQ_Purity_1": "MFQ",
+    "Foreign_Inter": "Policy_attitudes",
+    "Violence_peop": "Policy_attitudes",
+    "Federalism": "Policy_attitudes",
+    "SociSec": "Policy_attitudes",
+    "Compromise": "Policy_attitudes",
+    "Maternal_lang": "Policy_attitudes",
+    "Palestine": "Policy_attitudes",
+    "WomenRights": "Policy_attitudes",
+    "DistributiveJustice": "Policy_attitudes",
+    "HomoTrans": "Policy_attitudes",
+    "Afghan_Immig_eco": "Policy_attitudes",
+    "Afghan_Immig_cul": "Policy_attitudes",
+    "Ethnic/Civic_ident_1": "Ethnic_Civic",
+    "Ethnic/Civic_ident_2": "Ethnic_Civic",
+    "Ethnic/Civic_ident_3": "Ethnic_Civic",
+    "Ethnic/Civic_ident_4": "Ethnic_Civic",
+    "Ethnic/Civic_ident_5": "Ethnic_Civic",
+    "Ethnic/Civic_ident_6": "Ethnic_Civic",
+    "Ethnic/Civic_ident_7": "Ethnic_Civic",
+    "Ethnic/Civic_ident_8": "Ethnic_Civic",
+    "symbolic_nation_1": "Symbolic_nation",
+    "symbolic_nation_2": "Symbolic_nation",
+    "symbolic_nation_3": "Symbolic_nation",
+    "symbolic_nation_4": "Symbolic_nation",
+    "symbolic_nation_5": "Symbolic_nation",
+    "symbolic_nation_6": "Symbolic_nation",
+    "symbolic_nation_7": "Symbolic_nation",
+    "symbolic_nation_8": "Symbolic_nation",
+    "symbolic_nation_9": "Symbolic_nation",
+    "symbolic_nation_10": "Symbolic_nation",
+    "symbolic_nation_11": "Symbolic_nation",
+    "symbolic_nation_12": "Symbolic_nation",
+    "symbolic_nation_13": "Symbolic_nation"
+  },
+  "thermometers": {
+    "label_en": "Affective Thermometers",
+    "label_fa": "ترموسنج عاطفی",
+    "description_fa": "احساس گرما (۰ تا ۱۰۰) هر اردوگاه نسبت به اردوگاه‌های دیگر",
+    "rater_order": ["Left", "Left + Republican", "Republican", "Monarchist + Republican", "Monarchist"],
+    "target_order": ["Monarchists", "Republicans", "Leftists", "Reformists", "Principlists", "MEK"],
+    "raters": [
+      {
+        "id": "Left",
+        "label_fa": "چپ"
+      },
+      {
+        "id": "Left + Republican",
+        "label_fa": "چپ + جمهوری‌خواه"
+      },
+      {
+        "id": "Republican",
+        "label_fa": "جمهوری‌خواه"
+      },
+      {
+        "id": "Monarchist + Republican",
+        "label_fa": "پادشاهی‌خواه + جمهوری‌خواه"
+      },
+      {
+        "id": "Monarchist",
+        "label_fa": "پادشاهی‌خواه"
+      }
+    ],
+    "targets": [
+      {
+        "id": "Monarchists",
+        "label_fa": "پادشاهی‌خواهان"
+      },
+      {
+        "id": "Republicans",
+        "label_fa": "جمهوری‌خواهان"
+      },
+      {
+        "id": "Leftists",
+        "label_fa": "چپ‌گرایان"
+      },
+      {
+        "id": "Reformists",
+        "label_fa": "اصلاح‌طلبان"
+      },
+      {
+        "id": "Principlists",
+        "label_fa": "اصول‌گرایان"
+      },
+      {
+        "id": "MEK",
+        "label_fa": "مجاهدین خلق"
+      }
+    ]
+  }
+}

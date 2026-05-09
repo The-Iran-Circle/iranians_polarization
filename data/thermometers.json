@@ -1,0 +1,212 @@
+[
+  {
+    "rater": "Left",
+    "target": "Leftists",
+    "n": 32,
+    "mean": 83.2,
+    "sd": 12
+  },
+  {
+    "rater": "Left",
+    "target": "MEK",
+    "n": 32,
+    "mean": 3.3,
+    "sd": 8.4
+  },
+  {
+    "rater": "Left",
+    "target": "Monarchists",
+    "n": 32,
+    "mean": 4.5,
+    "sd": 7.7
+  },
+  {
+    "rater": "Left",
+    "target": "Principlists",
+    "n": 32,
+    "mean": 2.2,
+    "sd": 6
+  },
+  {
+    "rater": "Left",
+    "target": "Reformists",
+    "n": 32,
+    "mean": 27.7,
+    "sd": 27.2
+  },
+  {
+    "rater": "Left",
+    "target": "Republicans",
+    "n": 32,
+    "mean": 75.2,
+    "sd": 23.5
+  },
+  {
+    "rater": "Left + Republican",
+    "target": "Leftists",
+    "n": 92,
+    "mean": 77.2,
+    "sd": 16
+  },
+  {
+    "rater": "Left + Republican",
+    "target": "MEK",
+    "n": 92,
+    "mean": 5.5,
+    "sd": 11.9
+  },
+  {
+    "rater": "Left + Republican",
+    "target": "Monarchists",
+    "n": 92,
+    "mean": 13.5,
+    "sd": 15.8
+  },
+  {
+    "rater": "Left + Republican",
+    "target": "Principlists",
+    "n": 92,
+    "mean": 2.9,
+    "sd": 6.2
+  },
+  {
+    "rater": "Left + Republican",
+    "target": "Reformists",
+    "n": 92,
+    "mean": 24.3,
+    "sd": 23.4
+  },
+  {
+    "rater": "Left + Republican",
+    "target": "Republicans",
+    "n": 92,
+    "mean": 86.9,
+    "sd": 12.1
+  },
+  {
+    "rater": "Monarchist",
+    "target": "Leftists",
+    "n": 103,
+    "mean": 7.5,
+    "sd": 12.4
+  },
+  {
+    "rater": "Monarchist",
+    "target": "MEK",
+    "n": 103,
+    "mean": 0.1,
+    "sd": 0.9
+  },
+  {
+    "rater": "Monarchist",
+    "target": "Monarchists",
+    "n": 103,
+    "mean": 93.5,
+    "sd": 9.4
+  },
+  {
+    "rater": "Monarchist",
+    "target": "Principlists",
+    "n": 103,
+    "mean": 1.3,
+    "sd": 5.9
+  },
+  {
+    "rater": "Monarchist",
+    "target": "Reformists",
+    "n": 103,
+    "mean": 2.6,
+    "sd": 7.8
+  },
+  {
+    "rater": "Monarchist",
+    "target": "Republicans",
+    "n": 103,
+    "mean": 38.3,
+    "sd": 29.3
+  },
+  {
+    "rater": "Monarchist + Republican",
+    "target": "Leftists",
+    "n": 48,
+    "mean": 20.1,
+    "sd": 22.6
+  },
+  {
+    "rater": "Monarchist + Republican",
+    "target": "MEK",
+    "n": 48,
+    "mean": 0.4,
+    "sd": 2.3
+  },
+  {
+    "rater": "Monarchist + Republican",
+    "target": "Monarchists",
+    "n": 48,
+    "mean": 81.8,
+    "sd": 19.9
+  },
+  {
+    "rater": "Monarchist + Republican",
+    "target": "Principlists",
+    "n": 48,
+    "mean": 0.3,
+    "sd": 1.4
+  },
+  {
+    "rater": "Monarchist + Republican",
+    "target": "Reformists",
+    "n": 48,
+    "mean": 9,
+    "sd": 19.7
+  },
+  {
+    "rater": "Monarchist + Republican",
+    "target": "Republicans",
+    "n": 48,
+    "mean": 72.6,
+    "sd": 25.1
+  },
+  {
+    "rater": "Republican",
+    "target": "Leftists",
+    "n": 212,
+    "mean": 52.1,
+    "sd": 26.2
+  },
+  {
+    "rater": "Republican",
+    "target": "MEK",
+    "n": 212,
+    "mean": 2.7,
+    "sd": 9.3
+  },
+  {
+    "rater": "Republican",
+    "target": "Monarchists",
+    "n": 212,
+    "mean": 19.1,
+    "sd": 23.9
+  },
+  {
+    "rater": "Republican",
+    "target": "Principlists",
+    "n": 212,
+    "mean": 3.8,
+    "sd": 11.7
+  },
+  {
+    "rater": "Republican",
+    "target": "Reformists",
+    "n": 212,
+    "mean": 26.1,
+    "sd": 25.1
+  },
+  {
+    "rater": "Republican",
+    "target": "Republicans",
+    "n": 212,
+    "mean": 88.8,
+    "sd": 16.2
+  }
+]
